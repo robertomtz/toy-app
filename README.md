@@ -1,4 +1,4 @@
-=toy app=
+toy app
 =======
 
 Robi's turf
